@@ -9,6 +9,31 @@
 
 * copying your sourcefile or directory and making duplicates
 
+# Why I don't do this
+
+* hard to imediately tell what's been changed
+* not very cost efficient
+* hard to effectively collaborate
+
+# What I do do (hehehe)
+
+* Use Git!
+
+# Initialize
+
+# Create a new commit
+
+* Like saving a game
+
+# Build or experinemnt
+
+* branches
+* revert to save state
+
+# Branches
+
+# Collaboration
+
 # How people hire based off of github profiles
 
 * have they done dev in language we are using
