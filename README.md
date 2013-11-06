@@ -55,3 +55,8 @@
 
 * similar to having a blog
 * just having a profile puts you ahead (it shows you know how to use git ;))
+
+# Resources
+
+* http://git-scm.com/docs/gittutorial
+* try.github.io/
